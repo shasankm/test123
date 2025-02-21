@@ -2,31 +2,31 @@
     <sys_script_include action="INSERT_OR_UPDATE">
         <access>package_private</access>
         <active>true</active>
-        <api_name>x_snc_myapp2.MyApp</api_name>
+        <api_name>x_snc_myapp2.MySI</api_name>
         <caller_access/>
         <client_callable>false</client_callable>
         <description/>
         <mobile_callable>false</mobile_callable>
-        <name>MyApp</name>
+        <name>MySI</name>
         <sandbox_callable>false</sandbox_callable>
-        <script><![CDATA[var MyApp = Class.create();
-MyApp.prototype = {
+        <script><![CDATA[var MySI = Class.create();
+MySI.prototype = {
     initialize: function() {
     },
 
-    type: 'MyApp'
+    type: 'MySI'
 };]]></script>
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>maint</sys_created_by>
         <sys_created_on>2025-02-21 12:41:24</sys_created_on>
         <sys_id>cec9ad6e20b79250f877d1d6557f6e74</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>MyApp</sys_name>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>MySI</sys_name>
         <sys_package display_value="MyApp2" source="x_snc_myapp2">21b9e56a20b79250f877d1d6557f6ee2</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="MyApp2">21b9e56a20b79250f877d1d6557f6ee2</sys_scope>
         <sys_update_name>sys_script_include_cec9ad6e20b79250f877d1d6557f6e74</sys_update_name>
         <sys_updated_by>maint</sys_updated_by>
-        <sys_updated_on>2025-02-21 12:41:24</sys_updated_on>
+        <sys_updated_on>2025-02-21 13:16:01</sys_updated_on>
     </sys_script_include>
 </record_update>
