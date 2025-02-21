@@ -12,7 +12,7 @@
         <script><![CDATA[var MySI = Class.create();
 MySI.prototype = {
     initialize: function() {
-		//test2	
+		//test3
     },
 
     type: 'MySI'
@@ -21,13 +21,13 @@ MySI.prototype = {
         <sys_created_by>maint</sys_created_by>
         <sys_created_on>2025-02-21 12:41:24</sys_created_on>
         <sys_id>cec9ad6e20b79250f877d1d6557f6e74</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>MySI</sys_name>
         <sys_package display_value="MyApp2" source="x_snc_myapp2">21b9e56a20b79250f877d1d6557f6ee2</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="MyApp2">21b9e56a20b79250f877d1d6557f6ee2</sys_scope>
         <sys_update_name>sys_script_include_cec9ad6e20b79250f877d1d6557f6e74</sys_update_name>
         <sys_updated_by>maint</sys_updated_by>
-        <sys_updated_on>2025-02-21 13:31:23</sys_updated_on>
+        <sys_updated_on>2025-02-21 13:42:58</sys_updated_on>
     </sys_script_include>
 </record_update>
